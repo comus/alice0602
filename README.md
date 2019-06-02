@@ -9,9 +9,11 @@
 
 ## How to use
 
-本演示為網頁，只能下載程式碼再啟動 localhost web server，才能夠透過本機網址 http://localhost:3000 觀看。
+本演示所用為架設網頁的程式碼 (是一個 node.js 的程式)。
 
-1. 先下載或 clone 這個 Repo，可在 Terminal 輸入
+只能下載程式碼再啟動 localhost web server，才能夠透過本機網址 http://localhost:3000 觀看。
+
+1. 確保你電腦有安裝 node.js，然後下載或 clone 這個 Repo，可在 Terminal 輸入
 ```
 git clone https://github.com/comus/alice0602.git
 ```
