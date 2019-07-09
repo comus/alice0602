@@ -3,7 +3,8 @@
     "dev": "next",
     "now-dev": "npm run dev",
     "build": "next build",
-    "now-build": "npm run build"
+    "now-build": "npm run build",
+    "export": "next export"
   },
   "dependencies": {
     "isomorphic-unfetch": "^3.0.0",
